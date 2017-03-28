@@ -28,7 +28,7 @@ defaultContentLanguageInSubdir = false
   address = "100 Europa Drive, Suite 540, Chapel Hill, NC, USA"
   office_hours = ""
   phone = ""
-  skype = "echo123"
+  skype = "wclenhardt"
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -159,7 +159,7 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = ""
   url = "#posts"
   weight = 3
 
